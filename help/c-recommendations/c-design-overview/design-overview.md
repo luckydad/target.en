@@ -87,7 +87,7 @@ The following example shows how to JSON responses can be returned when configuri
 | Parameter | Value |
 |--- |--- |
 |`[YOUR_CLIENT_CODE]`|Target Client code (available on  ../target/products.html#recsSettings  > Recommendations API Token > Client Code.|
-|`[YOUR_MBOX_NAME]`|The name you've selected in the "locations" section of the form-based Recommendations, in this case YOUR_CLIENT_CODE.|
+|`[YOUR_MBOX_NAME]`|The name you've selected in the "locations" section of the form-based Recommendations, in this case Sample_Recs_Response.|
 |`[ENTITY_ID`]|The `entity.id` of an item in your catalog.|
 |`[AT_PROPERTY_TOKEN]`|(Optional) Add if you've selected a Property (part of Enterprise Permissions) during your activity setup.|
 
